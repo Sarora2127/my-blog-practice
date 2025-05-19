@@ -1,0 +1,15 @@
+/* Subscribe button styles */
+.subscribe-button {
+  background-color: #007BFF;    /* Blue background */
+  color: white;                 /* White text */
+  padding: 12px 24px;           /* Vertical and horizontal padding */
+  border: none;                 /* No border */
+  border-radius: 5px;           /* Rounded corners */
+  font-size: 16px;              /* Medium font size */
+  cursor: pointer;              /* Pointer cursor on hover */
+  transition: background-color 0.3s ease; /* Smooth hover transition */
+}
+
+.subscribe-button:hover {
+  background-color: #0056b3;    /* Darker blue on hover */
+}

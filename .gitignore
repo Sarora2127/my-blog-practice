@@ -7,3 +7,5 @@ Thumbs.db
 # Ignore build artifacts folder (if any)
 build/
 dist/
+
+*.log

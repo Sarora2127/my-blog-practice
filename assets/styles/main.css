@@ -19,4 +19,8 @@ body.dark-mode {
   background-color: #121212;
   color: #ffffff;
 }
+/* Add this to main.css */
+header {
+  margin-top: 20px;
+}
 
